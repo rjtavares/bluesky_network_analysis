@@ -1,0 +1,6 @@
+atproto==0.8.3
+networkx==3.2.1
+matplotlib==3.8.2
+numpy==1.26.2
+scipy==1.11.4
+fa2==0.3.5
